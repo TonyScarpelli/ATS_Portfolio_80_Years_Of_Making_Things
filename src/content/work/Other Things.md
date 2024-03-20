@@ -7,8 +7,8 @@ description: |
   I've done a lot of other things. Here's a few.
 tags:
   - Life
+  - Work
   - Design
-  - Carving
 ---
 I married a wonderful woman. She loved this cat and he loved her.<br>
 He was just a kitten in a box when some kids found him. They named him Cheez-It, because that's what they fed him. They couldn't keep him and showed him to my young son Mike. He wanted it and he named him Emlet because of the 'M' on his forehead. He loved that cat and the cat loved him. I barely tolerated the cat. He rarely sat in my lap. We let him go outside and gave him a couple cat doors. He couldn't procreate. He took down a Bluejay one day in the street. After that, every time he went outside the Jays would caw at him. He managed to live to 13. When he died I wrote his memoirs for him. He was a good looking beast.

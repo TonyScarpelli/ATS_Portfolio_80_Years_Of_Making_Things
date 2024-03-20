@@ -6,10 +6,10 @@ img_alt: "HyperCubeB"
 description: ""
 tags:
   - Design
-  - Metal
   - Carving
-  - Pyrography
+  - Computers
   - Electronics
+  - Life
 ---
 
 <!-- <img src="/assets/HyperCube.png" alt="HyperCube" width="300" height="325" style="float:left; margin:15px"> -->
