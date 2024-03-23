@@ -39,9 +39,15 @@ As I grew older my carving abilities got better and I tried more and more differ
 In my father's garage I made wooden things, including swords, knives, a ray gun, and I made a cross bow. Too bad I don't have a picture of them.<br><br>
 
 ![Nefertiti1](/assets/Other/Nefertiti1.JPG)
-I made mosaic pictures, and string art.<br><br>
+I made many mosaic pictures; this is Nefertiti. Each ceramic square has to be chipped with a cutting tool, and then ground if need be to fit. I did this in high school in my bedroom, it was very dusty every day. But this was my best one.<br><br>
+![StringArt1](/assets/Other/StringArt1.JPG)
+While in Maine, I made string art. This is one of many string art projects I made. I gave a lot away to friends and relatives<br><br>
+![StringArt2](/assets/Other/StringArt2.JPG)
+I made this for my wife since she is a singer, in musical notations it's called a treble clef. Sometimes in transportation strings break. Fixing them can be pretty hard to do.
 
-As an adult, and after the Army I tried copper enameling. When I lived in New York I used to go into shops that sold craft and artist supplies because I always needed something. One time I saw this kit that allowed you to make glass enameled copper. I bought it. It basically was a small kiln, some copper sheets in various shapes, some tools, and a supply of different color glass powders.
+String art is lots of work. You have to cover a board in black cloth, pound many, many nails into the board, then very carefully string the strings. They can be very beautiful, though.<br><br>
+
+As an adult, and after the Army, I tried copper enameling. When I lived in New York I used to go into shops that sold craft and artist supplies because I always needed something. One time I saw this kit that allowed you to make glass enameled copper. I bought it. It basically was a small kiln, some copper sheets in various shapes, some tools, and a supply of different color glass powders.
 To make something you would start the kiln up to get to the temperature to be able to melt glass. You would clean one of the copper shapes, add some powdered glass on top, put it in the kiln, and wait for the glass to melt. Then when the glass was melted you took the copper piece out and either leave it or take one of the tools and swirl around the glass in different patterns. When the object cools, and depending on what you’re making, it can become part of a neckless or whatever.
 You can make some pretty nice stuff this way.<br>
 
@@ -71,6 +77,7 @@ One year, while living in Maine, Bonnie and I tried crocheting.  After learning 
 We then decided to take a class on weaving at the local art school. She was able to get a large loom from her aunt, it filled a third of her studio. I got a smaller tapestry loom. We then did the weaving thing for a while, making various things. I started a picture on my loom, but never could finish it. She sold the large loom and we bought a portable table loom. She made some more things then stopped. You really have to like weaving.<br>
 
 I went to a local tech school and took a course in metal machines. I started to make a Tesla steam engine, but the course ended too soon. So I brought it home and put it somewhere. Now I can't find it. Sad.
+<https://en.wikipedia.org/wiki/Tesla_turbine>
 
 At the same school I took a course in Upholstery. I had to bring in what I wanted to work on. I completely redid my easy chair.
 
