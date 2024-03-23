@@ -29,7 +29,7 @@ You program the Arduino microprocessor with a variant of the C++ language. It's 
 There is a special programming environment called a UI (User Interface) that's easy to set up and easy to use to help program these things.<br><br>
 
 ![DryerDone2](/assets/Electronics/DryerDone2.JPG)
-The thing you see above is what I call a "Dryer Done" device. Our dryer is in the basement and has no alarm on it. You place this on the dryer and the vibrations keep a vibrations sensor moving in the device. When the dryer stops, it calls your phone. Cute, huh?<br><br>
+The thing you see above is what I call a "Dryer Done" device. Our dryer is in the basement and has no alarm on it. You place this on the dryer and the vibrations keep a vibrations sensor moving in the device. The legs have feet of magnets to stick to the metal top of the dryer, after all we don't want it to wonder off. When the dryer stops, it calls your phone. Cute, huh?<br><br>
 
 ![LawnMower](/assets/Electronics/LawnMower.JPG)
 Now this thing is an ongoing project. It's for cutting my lawn automatically.<br>

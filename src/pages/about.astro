@@ -63,7 +63,7 @@ import Hero from "../components/Hero.astro";
             This didn’t help my loneliness and misery, so on my 22nd birthday I and
             my high school friend jumped into my Studebaker Lark and we headed for
             New York City to be free-lance writers. We lived on the Lower East Side, 
-            Manhattan in a $40 a month apartment.<br><br>
+            Manhattan in a $40 a month tenement apartment.<br><br>
             Since I couldn’t sell anything I wrote, at least I still knew electronics,
             I got a job at the Bulova watch company in Queens, New York. I fixed
             tuning fork oscillators which were the time standards at that time, 1965.<br>
@@ -95,7 +95,7 @@ import Hero from "../components/Hero.astro";
             in 2012, became a householder, and got to work on many of those old projects
             that bugged me.<br /><br />
 
-            I carved a tree and made wood sculptures, made computer programs and
+            I carved a tree and made wood carvings, made computer programs and
             microprocessor devices, finished my memoirs, and made some homemade books
             containing all the things I wrote over my lifetime.<br /><br />
 
@@ -316,14 +316,23 @@ import Hero from "../components/Hero.astro";
 					</div>
 				</div>
 			</section>
+    
 		</main>
 
-		<ContactCTA />
+    <div style="text-align:center">    
+      <a href="/work/">Work Page</a>
+     </div>
+    
+    <ContactCTA />
 
   </div>
+  
 </BaseLayout>
 
   <style>
+    .center-text {
+      text-align: center;
+    }
     .about {
       display: flex;
       flex-direction: column;
@@ -379,5 +388,6 @@ import Hero from "../components/Hero.astro";
         font-size: var(--text-lg);
       }
     }
+
   </style>
 </BaseLayout>

@@ -48,7 +48,8 @@ These are the large Troposcatter antenna's pointing at Japan. They use heat laye
 
 ![Korea_Haeundae3](/assets/Other/Korea_Haeundae3.jpg)<br>
 This was Haeundae 60 years ago when I was there in 1964.
-I used to go down the mountain to the U.S. Army beach house when I was off duty and drink martinis and write.
+I used to go down the mountain to the U.S. Army beach house when I was off duty and drink martinis, write, and watch the ocean.
+
 ![HaeundaeToday](/assets/Other/Haeundae.png)<br>
 This is Haeundae today.
 https://www.koreatodo.com/haeundae-beach<br>
@@ -68,7 +69,7 @@ So here's to us, my love, a golden embrace, Fifty years of love, no moment to er
 
 Not bad, huh? It probably snitched some of those lines from some famous writer or poet. But I think I've made some pretty good poems myself without using anyone elses work.
 
-But wait, a funny thing happened on the way to my birth. Take a look at the About link.
+But wait, a funny thing happened on the way to my birth. Take a look at the About page. <a href="/about/">About Page</a>
 
 <a href="/work/">Work Page</a>
 
