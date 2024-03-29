@@ -49,14 +49,17 @@ String art is lots of work. You have to cover a board in black cloth, pound many
 
 As an adult, and after the Army, I tried copper enameling. When I lived in New York I used to go into shops that sold craft and artist supplies because I always needed something. One time I saw this kit that allowed you to make glass enameled copper. I bought it. It basically was a small kiln, some copper sheets in various shapes, some tools, and a supply of different color glass powders.
 To make something you would start the kiln up to get to the temperature to be able to melt glass. You would clean one of the copper shapes, add some powdered glass on top, put it in the kiln, and wait for the glass to melt. Then when the glass was melted you took the copper piece out and either leave it or take one of the tools and swirl around the glass in different patterns. When the object cools, and depending on what you’re making, it can become part of a neckless or whatever.
-You can make some pretty nice stuff this way.<br>
 
-I made a theremin which was one of those musical devices that the science fiction movies use to make weird music.
-<https://en.wikipedia.org/wiki/Theremin><br><br>
+You can make some pretty nice stuff this way. A couple years ago I bought a new kiln; haven't tried it out yet. So many things yet to do.<br>
+
+I made a theremin in New York one time. It is one of those musical devices that the science fiction movies use to make weird music.
+<p>View Theremins here <a href="https://en.wikipedia.org/wiki/Theremin" target="_blank">wikipedia.org</a><p>
+<br>
 
 ![RadialDirod](/assets/Electronics/RadialDirod.jpg)
 
-I made static electricity machines. That thing above is called a Radial Dirod and can produce 30,000 volts. I also made a Wimshurst machine, another type of static electricity machine that can produce 40,000 volts. I don't have a picture of the one I made, but you can see some here: <https://en.wikipedia.org/wiki/Wimshurst_machine>
+I made static electricity machines. That thing above is called a Radial Dirod and can produce 30,000 volts. I also made a Wimshurst machine, another type of static electricity machine that can produce 40,000 volts. I don't have a picture of the one I made, but you can see some here:
+<p>Wimshurst machines <a href="https://en.wikipedia.org/wiki/Wimshurst_machine" target="_blank">wikipedia.org</a><p>
 
 I got a small lathe and made cute metal things. And thanks to the Army I learned how to fix cameras, fix cars, and get a degree in Television Engineering.
 
@@ -77,15 +80,20 @@ One year, while living in Maine, Bonnie and I tried crocheting.  After learning 
 We then decided to take a class on weaving at the local art school. She was able to get a large loom from her aunt, it filled a third of her studio. I got a smaller tapestry loom. We then did the weaving thing for a while, making various things. I started a picture on my loom, but never could finish it. She sold the large loom and we bought a portable table loom. She made some more things then stopped. You really have to like weaving.<br>
 
 I went to a local tech school and took a course in metal machines. I started to make a Tesla steam engine, but the course ended too soon. So I brought it home and put it somewhere. Now I can't find it. Sad.
-<https://en.wikipedia.org/wiki/Tesla_turbine>
+
+The Tesla turbine is an amazing device, completely different than any current turbine made today. It's very powerful in a small package.
+
+View Tesla Turbine here <a href="https://en.wikipedia.org/wiki/Tesla_turbine" target="_blank">wikipedia.org</a><br><br>
+
 
 At the same school I took a course in Upholstery. I had to bring in what I wanted to work on. I completely redid my easy chair.
 
 I also made what was called a Matlock/Collins clock. It kept time with a pendulum. The pendulum had a large, cylindrical, wooden container partly filled with buckshot as the bob. When the temperature went up and down the pendulum got slightly longer or shorter and the buckshot would do the opposite, thus keeping the one second pendulum in good time. The energy for the clock was not a spring but a 555 timer that would, through a relay, kick a bit of the pendulum to keep it going. A really cool clock.
 
 The image below has many of the strange things in the math called Topology. A lot of 4th dimensional ideas.
-This link has lots to say about it:  
-<https://en.wikipedia.org/wiki/Topology>
+
+This link has lots to say about it:
+<a href="https://en.wikipedia.org/wiki/Topology" target="_blank">wikipedia.org</a><br><br>
 
 ![TopologyA](/assets/Other/Topology.png)
 

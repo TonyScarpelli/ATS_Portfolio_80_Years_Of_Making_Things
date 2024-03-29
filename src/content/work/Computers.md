@@ -47,7 +47,7 @@ You programmed your project by using IBM punch cards {below}, one card per line 
 ![PDP-8](/assets/Computers/PDP-8.png)<br>
 
 Later in the course, we sat at a terminal and then did the programming on a PDP 8 computer (above) in the same room. It  was the same computer in the computer repair course I had taken before. I even wrote a Biorhythm program on it.<br>
-See https://en.wikipedia.org/wiki/Biorhythm_(pseudoscience)
+See <a href="https://en.wikipedia.org/wiki/Biorhythm_(pseudoscience" target="_blank">Biorhythms</a> here<br><br>
 
 I now was not only programming in Basic, but I also learned a language called Forth. It was designed by Chuck Moore to program his radio frequency antennas to view into space. It was the best language that I ever programmed in. I bought a word processor written in FORTH for the TRS-80. It was, and still is, the fastest word processor ever written.
 

@@ -24,7 +24,8 @@ What you see above is a tea timer. When you turn it over so that the picture san
 
 ![Timer](/assets/Electronics/Timer1.JPG)
 How it works is there is a mercury switch in it which turns the current on. The microprocessor, the blue thing on the right is an Arduino Nano. Now this is a really small computer.<br>
-See  <https://www.arduino.cc/en/hardware> for a list of different Arduino devices.<br>
+Click here --> <a href="https://www.arduino.cc/en/hardware" target="_blank">Arduino</a> for a list of different Arduino devices.<br>
+
 You program the Arduino microprocessor with a variant of the C++ language. It's so much fun programming these guys.<br>
 There is a special programming environment called a UI (User Interface) that's easy to set up and easy to use to help program these things.<br><br>
 
