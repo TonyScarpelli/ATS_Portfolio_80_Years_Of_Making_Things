@@ -22,7 +22,7 @@ By the way, that image above is a **HyperCube**. It lives in a 4th dimensional w
 My interest in it came about through my interest in Moebius strips. I read a book called **_The Mathematical Magpie_**, edited by Clifton Fadiman. It was a wonderful trip into fourth dimensional spaces and beyond. (see below). I used to make many moebius strips, cut them in half, thirds, and fourths and see what happens. You should try it. What I couldn't do was glue the edges of a moebius strip together to make a Klein bottle.
 
 Over my 81 years of existence I made many things.
-When I was young, mostly in grammar school, I used to make so many things any child would make, you know paper folding, wooden and plastic planes, drawing, clay, paper mache, soap carving, etc., etc.
+When I was young, mostly in grammar school, I used to make so many things any child would make, you know **paper folding, wooden and plastic planes, drawing, clay, paper mache, soap carving, etc., etc.**
 
 My aunt gave me a couple books on making things. I went through it and got my taste of things I hadn't done before.
 
