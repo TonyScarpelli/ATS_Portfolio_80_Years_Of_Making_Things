@@ -70,4 +70,4 @@ When I got my big lathe I made some more, only better looking. Here's the ancien
 ![Pipe3B](/assets/Metal/Pipe3B.png)<br>
 I can make one for you.
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>

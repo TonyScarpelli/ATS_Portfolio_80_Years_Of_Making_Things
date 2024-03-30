@@ -33,6 +33,6 @@ I made this for my wife. It's quite heavy, but kind of looks nice, or at least i
 ![CopperThings2](/assets/Jewelry/CopperThings2.JPG)<br>
 I tinkered around with copper wire, the two things at the top, and copper metal for some ear rings. They are all pretty old and corroded. I didn't protect them with some kind of clear coating. Should have, though; see why. They are at least 15 years old, but I polished them a bit to take pictures of them.
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>
 
 <!--  ![](/assets/Jewelry/)  -->

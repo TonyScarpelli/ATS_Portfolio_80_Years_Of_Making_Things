@@ -57,4 +57,4 @@ I love all my computers.
 
 Oh, and take a look at my "Making electronic things" page to see really tiny computers.
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>

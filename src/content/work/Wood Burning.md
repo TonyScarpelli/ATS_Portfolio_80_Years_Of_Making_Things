@@ -38,4 +38,4 @@ A lot of little pieces had to be burned in.<br><br>
 ![WB6](/assets/Pyrography/WBProject6.jpg)
 My wife's Valentine gift.
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>

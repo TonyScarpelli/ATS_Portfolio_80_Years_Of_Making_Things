@@ -70,8 +70,8 @@ So here's to us, my love, a golden embrace, Fifty years of love, no moment to er
 
 Not bad, huh? It probably snitched some of those lines from some famous writer or poet. But I think I've made some pretty good poems myself without using anyone elses work.
 
-But wait, a funny thing happened on the way to my birth. Take a look at the About page. <a href="/about/">About Page</a>
+But wait, a funny thing happened on the way to my birth. Take a look at the About page. <a href="/about/">About Me Page</a>
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>
 
 <!--  ![](/assets/Other/)  -->

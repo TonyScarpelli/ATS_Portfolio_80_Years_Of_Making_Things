@@ -18,8 +18,8 @@ tags:
 
  <H5>Ah, the things I do and did</H5>
 
-By the way, that image above is a HyperCube. It lives in a 4th dimensional world of mathematics called Topology.
-My interest in it came about through my interest in Moebius strips. I read a book called _The Mathematical Magpie_, edited by Clifton Fadiman. It was a wonderful trip into fourth dimensional spaces and beyond. (see below).
+By the way, that image above is a **HyperCube**. It lives in a 4th dimensional world of mathematics called **Topology**.
+My interest in it came about through my interest in Moebius strips. I read a book called **_The Mathematical Magpie_**, edited by Clifton Fadiman. It was a wonderful trip into fourth dimensional spaces and beyond. (see below). I used to make many moebius strips, cut them in half, thirds, and fourths and see what happens. You should try it. What I couldn't do was glue the edges of a moebius strip together to make a Klein bottle.
 
 Over my 81 years of existence I made many things.
 When I was young, mostly in grammar school, I used to make so many things any child would make, you know paper folding, wooden and plastic planes, drawing, clay, paper mache, soap carving, etc., etc.
@@ -28,7 +28,7 @@ My aunt gave me a couple books on making things. I went through it and got my ta
 
 In one of my grade school classes the teacher wanted to teach us about pottery. She had us make some things in clay, then she sent them out to get heated, then, when they came back we had to paint them. They went out somewhere again, and came back all shiny. I made my mother a cup. Funny thing is, I never made a pottery thing ever again. Some people just took the process to heart.
 
-When I was around 6 years old, my father showed me the crystal radio he had built. I was fascinated on how it worked. Then when I was older I built a one tube radio. That led me into electronics. I made a color organ out of wood, a bright bulb, a color wheel, and a wooden wheel with broken pieces of mirror on it. It would get hooked up to a speaker and kind of turn to the music beat, and shine swirling images onto the wall.
+When I was around 6 years old, my father showed me the crystal radio he had built. I was fascinated on how it worked. Then when I was older in grammar school I built a one tube radio. That led me into electronics. In high school, in electronics class, I built an FM one tube radio that fit into a green metal recipe box. Also in high school I made a color organ out of wood, a bright bulb, a color wheel, and a wooden wheel with broken pieces of mirror on it. It would get hooked up to a speaker and kind of turn to the music beat, and shine swirling images onto the wall.
 
 As I grew older my carving abilities got better and I tried more and more different skills.
 
@@ -58,12 +58,12 @@ I made a theremin in New York one time. It is one of those musical devices that 
 
 ![RadialDirod](/assets/Electronics/RadialDirod.jpg)
 
-I made static electricity machines. That thing above is called a Radial Dirod and can produce 30,000 volts. I also made a Wimshurst machine, another type of static electricity machine that can produce 40,000 volts. I don't have a picture of the one I made, but you can see some here:
+I made static electricity machines. That thing above is called a Radial Dirod and can produce 30,000 volts. I also made a Wimshurst machine, another type of static electricity machine that can produce 40,000 volts. It was made with a phonograph record. I don't have a picture of the one I made, but you can see some here:
 <p>Wimshurst machines <a href="https://en.wikipedia.org/wiki/Wimshurst_machine" target="_blank">wikipedia.org</a><p>
 
 I got a small lathe and made cute metal things. And thanks to the Army I learned how to fix cameras, fix cars, and get a degree in Television Engineering.
 
-Later I started making string art, and carving wood, got myself a large lathe and made artsy metal things. I remembered as a teen I burned wood, so tried it again as an adult.
+Later I started making string art, and carving wood, got myself a large lathe and made artsy metal things. I remembered as a teen I burned wood, so tried it again as an adult. See My Work Page.
 
 And then into computers.
 
@@ -77,13 +77,13 @@ When I came to Maine in 1971 we lived in a town called Pittston. The house we bo
 
 One year, while living in Maine, Bonnie and I tried crocheting.  After learning all the knots we’d sit around and just make things, and eventually we’d make larger things. It was a lot of fun, and you could make gifts for others. I tried it again last year. Bad memory, couldn't remember the knots.
 
-We then decided to take a class on weaving at the local art school. She was able to get a large loom from her aunt, it filled a third of her studio. I got a smaller tapestry loom. We then did the weaving thing for a while, making various things. I started a picture on my loom, but never could finish it. She sold the large loom and we bought a portable table loom. She made some more things then stopped. You really have to like weaving.<br>
+We then decided to take a class on weaving at the local art school. She was able to get a large loom from her aunt, it filled a third of her studio. I got a smaller tapestry loom. We then did the weaving thing for a while, making various things. I started a picture on my loom, but never could finish it. She sold the large loom and we bought a portable table loom. She made some more things then stopped, but she taught some weaving techniques in a group she was in. You really have to like weaving.<br>
 
 I went to a local tech school and took a course in metal machines. I started to make a Tesla steam engine, but the course ended too soon. So I brought it home and put it somewhere. Now I can't find it. Sad.
 
 The Tesla turbine is an amazing device, completely different than any current turbine made today. It's very powerful in a small package.
 
-View Tesla Turbine here <a href="https://en.wikipedia.org/wiki/Tesla_turbine" target="_blank">wikipedia.org</a><br><br>
+View the Tesla Turbine here <a href="https://en.wikipedia.org/wiki/Tesla_turbine" target="_blank">wikipedia.org</a><br><br>
 
 
 At the same school I took a course in Upholstery. I had to bring in what I wanted to work on. I completely redid my easy chair.
@@ -97,4 +97,4 @@ This link has lots to say about it:
 
 ![TopologyA](/assets/Other/Topology.png)
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>

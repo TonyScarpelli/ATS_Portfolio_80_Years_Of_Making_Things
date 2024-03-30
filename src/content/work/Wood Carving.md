@@ -43,4 +43,4 @@ These are the tools for carving, debarking, and getting rid of difficult stuff.<
 ![TreeDebarkedB](/assets/Carving/TreeAndMe2.jpg)
 It actually represents the higher level where our angry over-beings are, the earth where our cat at least lived happily, and hell, you know where hell is, you get bitten by those black, red, eight legged things all the time.<br>
 
-<a href="/work/">Work Page</a>
+<a href="/work/">My Work Page</a>
